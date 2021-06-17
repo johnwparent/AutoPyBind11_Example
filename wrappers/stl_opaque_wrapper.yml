@@ -1,0 +1,4 @@
+files:
+  stl_opaque.hpp:
+    classes:
+      ClassWithSTLVecProperty:
